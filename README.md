@@ -1,2 +1,2 @@
 # elasticsearch-sql-study
-elasticsearch-sql集成到java学习
+springboot集成eslasticsearch,使用sql查询
